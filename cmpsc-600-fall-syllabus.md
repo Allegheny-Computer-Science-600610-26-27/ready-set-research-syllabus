@@ -524,7 +524,7 @@ limits:
   - Examples of improvements to the system since the preliminary demonstration
   - An explanation of at least one important source-code segment
   - Connections between the computational prototype and the research problem
-- Presenting students must strictly adhere to the stated time limits.
+- All presenting students must strictly adhere to the stated time limits.
 - All students are required to attend and participate as audience members in
 all of project presentations.
 - Students must submit the first two chapters of their senior thesis document.
@@ -669,52 +669,116 @@ Ethics](https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-boo
 
 ### Use of Artificial Intelligence Tools
 
-The course instructors recognize that use of artificial intelligence (AI) tools
-such as Github Copilot, GPT, and Claude has emerged as a professional skill set
-in the knowledge and practices our coursework covers. Department faculty
-maintain a permissive attitude toward these tools by recognizing that you can
-and will use them. We do so considering the following position:
+The Department of Computer and Information Science (CIS) recognizes that
+artificial intelligence (AI) tools are part of contemporary computing practice.
+The department maintains a permissive attitude toward these tools while
+expecting students to use them thoughtfully, responsibly, and ethically. This
+section supplements the department's [policy on using artificial
+intelligence](https://www.cis.allegheny.edu/about/policies/).
 
-> As a skill, using and correctly applying the results derived from AI tools is
-> both context-based and discretion-worthy: these tools do not always provide
-> correct or workable answers. Industry veterans and expert users run into many
-> situations in which the responses these algorithms provide are plainly
-> incorrect or unfit. In the context of department coursework, accepting an
-> AI-generated answer wholesale or as a small part of an assignment may lead to
-> less-than-satisfactory results in the context of both learning and deliverable
-> quality.
->
-> As a learner, your time at Allegheny is meant to impart the knowledge that
-> enables you to judge the fitness of a given approach, regardless of its
-> origin. In the same way that CIS students employ compilers, integrated
-> development environments, and refactoring tools, the use of an AI tool is not
-> a substitute for developing the fundamental skills that develop this
-> awareness. Importantly, research demonstrates that relying on generated
-> responses reduces a learner’s ability to durably learn these lessons and
-> skills, suggesting that you should cautiously embrace the use of AI when you
-> complete CIS coursework[^ai-study].
+Because this is an advanced, senior-level research course, AI tools may support
+research and development when their use is consistent with the instructions of
+the course, the first reader(s), the second reader, and the specific aspects of
+the senior comprehensive project. Those instructions from your readers may
+prohibit particular uses or require the use of specified tools. Any
+reader-specific or project-specific instructions take precedence over the
+general expectations in this section.
 
-Be prepared to support their use in ways including but not limited to:
+#### Appropriate Use of AI in Senior Research
 
-- citing instances where code has been generated and clearly defining the tools
-  that generated them
-- providing descriptive commentary (including prompts) around generated code
-  either in in-line comments or assignment documentation
-- considering improvements to the generated code, documenting specifics about
-  your modifications and reasoning behind them
-- revising the generated code or documentation so as to ensure that it is more
-  suitable for the purposes of your assignment
+Students may use AI tools as research and professional tools for activities
+such as the following, unless an aspect of their senior comprehensive project
+or advice from a project reader states otherwise:
 
-Faculty do not intend these requirements as a “gotcha”; we assume the best of
-your effort. These guidelines follow industry best practices and prepare you for
-integrating current and future generations of these AI technologies into your
-set of computational skills.
+- Brainstorming or refining research questions and possible approaches
+- Explaining unfamiliar concepts, methods, algorithms, or error messages
+- Exploring implementation strategies and creating prototypes
+- Generating, refactoring, or debugging code and tests
+- Improving documentation, accessibility, or language clarity
+- Identifying search terms and candidate sources for the literature review
+- Exploring data-analysis strategies when the data and research protocol permit
 
-[^ai-study]: Binglin Chen, Colleen M. Lewis, Matthew West, and Craig Zilles.
-  2024\. Plagiarism in the Age of Generative AI: Cheating Method Change and
-  Learning Loss in an Intro to CS Course. In _Proceedings of the Eleventh ACM
-  Conference on Learning @ Scale (L@S '24)_. Association for Computing
-  Machinery, New York, NY, USA, 75–85.
+AI assistance does not replace the student's responsibility for the research
+question, research design, implementation, analysis, interpretation, writing,
+or final artifact. The student must be able to explain and defend every
+aspect of the submitted work, including any work that was AI-assisted.
+
+#### Research Integrity and Verification
+
+AI tools can produce inaccurate explanations, fabricated citations, insecure
+code, biased recommendations, and content that resembles existing copyrighted
+or licensed work. Students must critically evaluate every output before using
+it. In particular, students must:
+
+- verify factual claims, quotations, citations, and bibliographic information
+  against the original scholarly or technical source
+- never use AI-generated citations or references without independently checking
+  that they exist and support the claim being made
+- test, review, and revise generated code before incorporating it into an
+  artifact
+- check generated code and other outputs for security, privacy, accessibility,
+  bias, and license or attribution requirements
+- report uncertainty, limitations, and material AI assistance when they affect
+  the research method, results, or interpretation
+
+Students may not present AI-generated text, code, data, results, citations, or
+analysis as their own work without appropriate disclosure. Students may not use
+AI tools to fabricate data, research participants, experimental results,
+observations, sources, or evidence.
+
+#### Documenting AI Use
+
+Students must maintain an AI-use record in their research notebook for any AI
+use that materially influences the project. The record should identify, when
+available:
+
+- the tool or provider, model, and date of use
+- the purpose of the interaction and the part of the project it affected
+- the prompt or a representative prompt, unless it contains protected material
+- the relevant output or a concise description of what was used
+- the student's verification, revisions, and reasons for accepting or rejecting
+  the output
+
+Students should preserve prompts and outputs when doing so is safe and lawful.
+If a prompt or output contains private, confidential, proprietary, unpublished,
+or otherwise protected material, students should not reproduce that material in
+the research notebook. Instead, they should provide a redacted description of
+the interaction and explain the steps taken to protect the material.
+
+For code, documentation, or thesis text that includes substantive AI
+assistance, students must provide appropriate attribution or disclosure in the
+repository, thesis, or assignment documentation. AI tools are not authors or
+scholarly sources; students should cite and evaluate the original sources on
+which their work relies.
+
+#### Privacy, Security, and Human-Subjects Research
+
+Students must not submit personal information, confidential or proprietary
+data, unpublished research, access credentials, private repository contents, or
+human-subject data to a public or unapproved AI service. AI providers may retain
+or reuse submitted content. Students must also follow the approved research
+protocol, data-management plan, and any instructions from their readers.
+
+When a project involves human participants, identifiable data, or other
+regulated information, students must obtain the required approval before using
+AI in the research process. Any AI-assisted collection, transformation,
+classification, or analysis of research data must be consistent with the
+approved protocol and must be discussed with the first reader.
+
+#### Advanced-Course Expectations
+
+In an advanced research course, effective AI use means more than accepting a
+plausible response. Students should compare alternatives, document important
+decisions, evaluate limitations and bias, and use experiments or other evidence
+to assess whether an AI-assisted approach is appropriate. The research
+notebook, thesis chapters, presentations, demonstrations, and computational
+artifact should make the student's independent reasoning and contributions
+visible.
+
+Failure to disclose substantive AI assistance, submission of fabricated or
+unverified material, misuse of protected information, or inability to explain
+submitted work may constitute a violation of the Honor Code or another College
+or department policy.
 
 ### Seeking Assistance
 
