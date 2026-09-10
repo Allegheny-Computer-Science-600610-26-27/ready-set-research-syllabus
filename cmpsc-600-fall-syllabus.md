@@ -172,7 +172,7 @@ section that will contribute to a student's grade in this course are those that
 reasonably pertain the deliverables in the `600`-level course. Before the
 submission of a final grade, a student's assessment scores for these categories
 will be initially assigned by their first reader, reviewed by their second
-reader, approved by all faculty members who are instructors for a `600`-level
+reader, and approved by all faculty members who are instructors for a `600`-level
 course in Computer and Information Science at Allegheny College.
 
 As part of their class participation, all students must write a project
