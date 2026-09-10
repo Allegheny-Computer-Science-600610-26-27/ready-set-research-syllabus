@@ -58,9 +58,20 @@ Science, including any approved schedule changes or modifications to the
 requirements stated in the syllabus.
 ```
 
+A student who is a double major should provide:
+
+```text
+List any additional requirements for your major in Computer and Information
+Science, including any approved schedule changes or modifications to the
+requirements stated in the syllabus. Further list any requirements for the
+compltion of your additional major, including details about joint meetings,
+joint presentations, and any other requirements that are not stated in the
+syllabus for the 600-level course in Computer and Information Science.
+```
+
 A student should add an X-mark to the box to indicate that they have defined a
-project contract and had either their first and second readers or their two
-first readers approve it.
+project contract and had either their first and second readers or, if they are
+a double major, their two first readers approve it.
 
 - [ ] I have written a project contract and had either my first and second
 readers or my two first readers approve it.
