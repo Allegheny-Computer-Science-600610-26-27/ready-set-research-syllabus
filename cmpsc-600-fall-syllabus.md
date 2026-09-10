@@ -155,8 +155,8 @@ percentages during the academic semester.
 |Class Participation |Secondary |7.5% |
 |Adviser Meetings |Secondary |7.5% |
 |Computational Artifact |Primary |15% |
-|Project Presentation |Primary |15% |
-|Project Demonstration |Primary |15% |
+|Project Presentation |Primary |10% |
+|Project Demonstrations |Primary |20% |
 |Two Thesis Chapters |Primary |35% |
 
 To pass a `600`-level course in Computer and Information Science, submission of
