@@ -7,6 +7,7 @@ Science, and Informatics. Specifically, it contains the following files:
 - [CMPSC 600 Fall Semester Syllabus](/cmpsc-600-fall-syllabus.md)
 - [Metadata Document for Senior Comprehensive Project](/metadata.md)
 - [Schedule for the Senior Comprehensive Project Presentations](/presentations.md)
+- [Schedule for the Senior Comprehensive Project Demonstrations](/demonstrations.md)
 - [CMPSC 610 Spring Semester Syllabus (DRAFT)](/cmpsc-610-spring-syllabus.md)
 - [Issue Tracker for Feedback on a Syllabus](https://github.com/Allegheny-Computer-Science-600610-26-27/ready-set-research-syllabus/issues)
 - [Pull Requests for Improvement to the Syllabus](https://github.com/Allegheny-Computer-Science-600610-26-27/ready-set-research-syllabus/pulls)
