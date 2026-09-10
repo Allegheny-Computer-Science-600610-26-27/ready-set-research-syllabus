@@ -415,7 +415,7 @@ When a project involves human participants, identifiable data, or other
 regulated information, students must obtain the required approval before using
 AI in the research process. Any AI-assisted collection, transformation,
 classification, or analysis of research data must be consistent with the
-approved protocol and must be discussed with the first reader.
+approved protocol and must be discussed with the project readers.
 
 #### Advanced-Course Expectations
 
