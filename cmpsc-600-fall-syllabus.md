@@ -58,7 +58,7 @@ use during class and lab sessions.
   informal discussions, peer reviews and formal presentations.
 - Produce and document a working prototype of computational artifact.
 - Evaluate the produced prototype and reflect on theoretical, practical, ethical
-  and social impact of the proposed artifact.
+  and social impact of the presented artifact.
 - Produce an original project that includes integration of theory and practice
   or software and hardware.
 
@@ -83,7 +83,7 @@ use during class and lab sessions.
   informal discussions, peer reviews and formal presentations.
 - Produce and document a working prototype of a data-oriented artifact.
 - Evaluate the produced prototype and reflect on theoretical, practical, ethical
-  and social impact of the proposed artifact.
+  and social impact of the presented artifact.
 - Produce an original project that uses a large, complex data set to create a
   web dashboard or extend an existing data science framework via analysis.
 
@@ -108,7 +108,7 @@ use during class and lab sessions.
   informal discussions, peer reviews and formal presentations.
 - Produce and document a working prototype of an information-informed artifact.
 - Evaluate the produced prototype and reflect on theoretical, practical, ethical
-  and social impact of the proposed artifact.
+  and social impact of the presented artifact.
 - Produce an original project that integrates multiple disciplines and provides
   critical engagement of impact of technology on various communities.
 
@@ -232,7 +232,7 @@ course in Computer and Information Science.
 - [ ] The student gave the project presentation on the assigned date
 - [ ] The project presentation featured effective, readable, and accessible
   slides
-- [ ] The project presentation provided a clear overview of the proposed
+- [ ] The project presentation provided a clear overview of the chosen
   project
 - [ ] The project presentation stated a focused research problem, question, or
   objective
