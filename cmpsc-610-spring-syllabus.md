@@ -335,7 +335,7 @@ prohibit particular uses or require the use of specified tools. Any
 reader-specific or project-specific instructions take precedence over the
 general expectations in this section.
 
-#### Appropriate Use of AI in Senior Research
+#### Appropriate Use of AI in Senior Comprehensive Project Research
 
 Students may use AI tools as research and professional tools for activities
 such as the following, unless an aspect of their senior comprehensive project
