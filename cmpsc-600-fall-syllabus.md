@@ -371,7 +371,7 @@ Computer and Information Science.
 - [ ] The related work section situates the completed project in the broader
   scope
 - [ ] The related work section explains how prior work informs the project's
-  research questions, method, or evaluation
+  research questions, method, and/or evaluation
 - [ ] The related work section furnishes content that supports the other
   chapters of the thesis
 - [ ] All sources discussed in the related work section are cited consistently
