@@ -271,8 +271,6 @@ course in Computer and Information Science.
   limitations
 - [ ] The demonstrated artifact aligned with the project objectives described
   in the presentation
-- [ ] The student used an appropriate backup plan or prepared materials when
-  technical difficulties prevented a live demonstration
 - [ ] The student responded accurately and professionally to questions about
   the artifact's current state
 
