@@ -2,40 +2,29 @@
 
 ## Fall Presentations
 
-- **First Week of Presentations**:
+- **Week 8**:
+  - `mcwright01@allegheny.edu`
+  - `oforkansi01@allegheny.edu`
+  - `hasegawa01@allegheny.edu`
+  - `davison01@allegheny.edu`
+  - `alaparthi01@allegheny.edu`
+  - `sharsheev01@allegheny.edu`
 
-  - `nelson01@allegheny.edu`
-  - `duverglas01@allegheny.edu`
-  - `greer01@allegheny.edu`
+- **Week 9**:
+  - `anderson03@allegheny.edu`
+  - `roque01@allegheny.edu`
+  - `akbas01@allegheny.edu`
+  - `brown09@allegheny.edu`
+  - `janci01@allegheny.edu`
+  - `suppo01@allegheny.edu`
 
-- **Second Week of Presentations**:
-
-  - `colucci01@allegheny.edu`
-  - `smith07@allegheny.edu`
-  - `hopkins02@allegheny.edu`
-
-- **Third Week of Presentations**:
-
-  - `dyga01@allegheny.edu`
-  - `kaibas01@allegheny.edu`
+- **Week 10**:
+  - `guragain01@allegheny.edu`
+  - `goddard01@allegheny.edu`
+  - `quinola01@allegheny.edu`
+  - `potts01@allegheny.edu`
+  - `xaviersaccoccio01@allegheny.edu`
 
 ## Spring Presentations
 
-- **First Week of Presentations During Week Twelve**:
-
-  - `dyga01@allegheny.edu`
-  - `colucci01@allegheny.edu`
-  - `hopkins02@allegheny.edu`
-
-- **Second Week of Presentations During Week Fourteen**:
-
-  - `nelson01@allegheny.edu`
-  - `kaibas01@allegheny.edu`
-  - `duverglas01@allegheny.edu`
-
-- **Third Week of Presentations During Week Fifteen**:
-
-  - `smith07@allegheny.edu`
-  - `greer01@allegheny.edu`
-
-- **Reminder: No Presentations During Week Thirteen Due to Recharge Recess**
+To be announced.
