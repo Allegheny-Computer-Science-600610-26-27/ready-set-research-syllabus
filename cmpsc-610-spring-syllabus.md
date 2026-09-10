@@ -310,7 +310,7 @@ the policy on the use of artificial intelligence tools, referenced in this
 syllabus, for more suggestions concerning the effective use of AI tools like
 ChatGPT or GitHub Copilot.
 
-### Classroom Ethics
+### Research Ethics
 
 The discipline of computer science, like many others, encourages its members to
 act according to discipline-specific ethics.
