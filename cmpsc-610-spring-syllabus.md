@@ -384,10 +384,10 @@ Students must maintain an AI-use record in their research notebook for any AI
 use that materially influences the project. The record should identify, when
 available:
 
-- Tool or provider, model, and date of use
-- Purpose of the interaction and the part of the project it affected
-- Prompt or a representative prompt and context used to complete the task
-- Relevant AI output or a concise description of what was used
+- Tool an/or AI model provider, AI model, and date of AI use
+- Purpose of the interaction and the part of the project it influenced
+- Prompt (or a representative prompt) and context used to complete the task
+- Relevant AI tool output or a concise description of what and how output was used
 - Complete verification and revision transcripts and clear reasons for
 accepting or rejecting the output produced by the AI tool
 
