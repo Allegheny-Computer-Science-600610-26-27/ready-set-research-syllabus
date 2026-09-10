@@ -439,15 +439,15 @@ approval.
 - **Week Seven**: No class due to Fall Break, gain access to thesis chapters
   repository
 - **Week Eight**: One-third of class gives project presentation and
-  demonstration
+  preliminary demonstration
 - **Week Nine**: One-third of class gives project presentation and demonstration
 - **Week Ten**: One-third of class gives project presentation and demonstration
 - **Week Eleven**: Write and revise Chapter One of Senior Comprehensive Project
-- **Week Twelve**: Write and revise Chapter One of Senior Comprehensive Project
+- **Week Twelve**: Write and revise Chapter Two of Senior Comprehensive Project
 - **Week Thirteen**: Write and revise Chapter Two of Senior Comprehensive
   Project
 - **Week Fourteen**: No class due to Thanksgiving Break
-- **Week Fifteen**: Write and revise Chapter Two of Senior Comprehensive Project
+- **Week Fifteen**: Entire class gives final demonstration of computational prototype
 - **Week Sixteen**: Finalize first two chapters of Senior Comprehensive Project
 - **December 10, 2026 by 11:59 PM**: Submit final version of Chapter One and
   Chapter Two and finalized version of computational prototype
