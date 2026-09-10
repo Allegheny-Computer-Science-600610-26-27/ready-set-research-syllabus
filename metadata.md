@@ -12,7 +12,6 @@ A student should add an X-mark to the box to indicate that they agree to adhere
 to the Allegheny College Honor Code during the completion of their Senior
 Comprehensive Project.
 
-
 - [ ] I agree to adhere to the Allegheny College Honor Code during the
 completion of my Senior Comprehensive Project.
 
@@ -26,17 +25,17 @@ A student should type their GitHub username below.
 
 ### GitHub Repository for Senior Thesis Chapters and Research Journal
 
-- **Repository URL**: [URL of GitHub Repository for Chapters and Journal](https://github.com/Allegheny-Computer-Science-600610-25-26/ready-set-research-syllabus/) 
+- **Repository URL**: [URL of GitHub Repository for Chapters and Journal](https://github.com/Allegheny-Computer-Science-600610-26-27/ready-set-research-syllabus/)
 
 ### GitHub Repository for Computational Artifact
 
-- **Repository URL**: [URL of GitHub Repository for Computational Artifact](https://github.com/Allegheny-Computer-Science-600610-25-26/ready-set-research-syllabus/) 
+- **Repository URL**: [URL of GitHub Repository for Computational Artifact](https://github.com/Allegheny-Computer-Science-600610-26-27/ready-set-research-syllabus/)
 
 ## Project Title
 
 A student should type the title of their senior comprehensive project
 into the following fenced code block.
 
-```
+```text
 Add the Title of Your Senior Comprehensive Project
 ```
