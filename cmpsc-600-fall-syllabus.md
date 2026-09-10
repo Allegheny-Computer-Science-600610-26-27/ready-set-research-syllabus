@@ -175,17 +175,17 @@ will be initially assigned by their first reader, reviewed by their second
 reader, approved by all faculty members who are instructors for a `600`-level
 course in Computer and Information Science at Allegheny College.
 
-All students must write a project contract in the meta-data file and confirm
-that their first and second readers have approved it. Students who
-are enrolled in `DOUBL 600` must write a course contract that describes the
-deliverables and the deadlines by which they will complete them for both
-`600`-level course in Computer and Information Science and the course for their
-additional major. Importantly, students in `DOUBL 600` must complete _all_ the
-requirements for _both_ the `600`-level course in Computer and Information
-Science _and_ the `600` course connected to their other major. Students who
-enroll in `DOUBL 600` should submit their course contract to both of their
-first readers and the coordinator of the `600`-level course in Computer and
-Information Science.
+As part of their class participation, all students must write a project
+contract in the meta-data file and confirm that their first and second readers
+have approved it. Students who are enrolled in `DOUBL 600` must write a course
+contract that describes the deliverables and the deadlines by which they will
+complete them for both `600`-level course in Computer and Information Science
+and the course for their additional major. Importantly, students in `DOUBL 600`
+must complete _all_ the requirements for _both_ the `600`-level course in
+Computer and Information Science _and_ the `600` course connected to their
+other major. Students who enroll in `DOUBL 600` should submit their course
+contract to both of their first readers and the coordinator of the `600`-level
+course in Computer and Information Science.
 
 ### Deliverable Descriptions
 
