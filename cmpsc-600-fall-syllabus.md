@@ -8,9 +8,9 @@ Your senior thesis process affords you the opportunity to pursue independent
 research in computer science. This course parallels the kinds of intense inquiry
 and research inherent to both academic life and a career as a computer
 scientist, data scientist, or software engineer. To that end, you will work
-closely with your readers to explore rich, ever-complex, projects. Though the
-faculty cannot promise that this work will be frustration- or challenge-free, we
-invite you to pursue it with great enthusiasm, vigor, and to --- above all ---
+closely with your readers to explore rich, increasingly complex projects. Though
+the faculty cannot promise that this work will be frustration- or challenge-free,
+we invite you to pursue it with great enthusiasm, vigor, and to --- above all ---
 find joy in the process.
 
 ## Course Description
@@ -228,46 +228,77 @@ Computer and Information Science.
 #### Project Presentation
 
 - [ ] The student gave the project presentation on the assigned date
-- [ ] The project presentation featured effective and well-designed slides
-- [ ] The project presentation has an accessible overview of the proposed
+- [ ] The project presentation featured effective, readable, and accessible
+  slides
+- [ ] The project presentation provided a clear overview of the proposed
   project
-- [ ] The project presentation gave a clear project motivation
-- [ ] The student effectively answered the questions from the audience
+- [ ] The project presentation stated a focused research problem, question, or
+  objective
+- [ ] The project presentation gave a clear motivation for the project
+- [ ] The presentation identified the project's intended audience and scope
+- [ ] The presentation explained the proposed approach at an appropriate level
+  of technical depth
+- [ ] The presentation clearly distinguished completed work from planned work
+- [ ] The presentation demonstrated clear understanding of the research problem
+  and proposed solution
+- [ ] The presentation explained the expected contribution or significance of
+  the project
+- [ ] The presentation addressed relevant ethical, societal, or broader-impact
+  considerations
+- [ ] The student effectively answered questions from the audience
 - [ ] The student completed the project presentation within the stated time
   limit
-- [ ] The student completed the question and answer session within the stated
+- [ ] The student completed the question-and-answer session within the stated
   time limit
-- [ ] The presentation demonstrated clear understanding of the research problem
-  and solution
-- [ ] The presentation included appropriate technical depth for the audience
 - [ ] The presentation showed evidence of thorough preparation and practice
-- [ ] The presentation effectively communicated the broader impact and
-  significance of the work
 
-#### Project Demonstration
+#### Preliminary Project Demonstration
 
-- [ ] The student completed the tool demonstration within the stated time limit
-- [ ] The demonstration clearly shows the computational artifact in action with
-  realistic input/output examples
-- [ ] The student effectively explained the core functionality and purpose of
-  their tool
-- [ ] The demonstration included multiple key features or use cases of the
-  computational artifact
+- [ ] The student completed the preliminary demonstration on the assigned date
+- [ ] The student completed the preliminary demonstration within the stated
+  two-minute time limit
+- [ ] The demonstration showed a working version of the computational artifact
+  rather than only describing a proposed implementation
+- [ ] The demonstration followed a planned sequence that the audience could
+  understand
+- [ ] The demonstration showed at least one representative end-to-end workflow
+  with realistic input and output
+- [ ] The student explained the artifact's purpose and its connection to the
+  research problem
+- [ ] The student identified the artifact's current capabilities and known
+  limitations
+- [ ] The demonstrated artifact aligned with the project objectives described
+  in the presentation
+- [ ] The student used an appropriate backup plan or prepared materials when
+  technical difficulties prevented a live demonstration
+- [ ] The student responded accurately and professionally to questions about
+  the artifact's current state
+
+#### Final Project Demonstration
+
+- [ ] The student completed the final demonstration on the assigned date
+- [ ] The student completed the final demonstration within the stated
+  five-minute time limit
+- [ ] The demonstration used the current, tagged, and reproducible version of
+  the computational artifact
+- [ ] The demonstration showed the artifact in action with realistic input and
+  output examples
+- [ ] The demonstration presented the artifact's core workflow and most
+  important features or use cases
+- [ ] The student demonstrated meaningful improvements made since the
+  preliminary demonstration
+- [ ] The student explained at least one important source-code segment and its
+  relationship to the artifact's behavior
+- [ ] The student connected the demonstrated functionality to the research
+  problem, method, and intended contribution
+- [ ] The student showed evidence of testing, validation, or evaluation of the
+  demonstrated functionality
+- [ ] The student clearly articulated the artifact's limitations, risks, and
+  appropriate future improvements
 - [ ] The student handled technical difficulties or unexpected issues in a
-  professional manner
-- [ ] The demonstrated tool aligns with the research objectives outlined in the
-  project presentation
-- [ ] The student showed evidence of testing or validation during the
-  demonstration
-- [ ] The demonstration was well-organized and followed a logical sequence
-- [ ] The computational artifact demonstrated represents substantial technical
-  achievement
-- [ ] The demonstration showed the computational artifact's practical
-  applicability and potential impact
-- [ ] The student clearly articulated any limitations or future improvements
-  needed
-- [ ] The project demonstration showed the overall feasibility of the proposed
-  research project
+  professional manner and used a reasonable fallback when necessary
+- [ ] The final demonstration showed the overall feasibility and practical
+  applicability of the completed research project
 
 #### General Thesis Requirements
 
@@ -306,30 +337,53 @@ Computer and Information Science.
 #### Introduction Section Requirements
 
 - [ ] The introduction section clearly describes the completed work
+- [ ] The introduction states a focused research problem, question, or objective
+- [ ] The introduction defines the scope of the project and identifies important
+  constraints or assumptions
+- [ ] The introduction identifies the intended audience and explains why the
+  problem matters to that audience
 - [ ] The introduction section motivates the completed work from a professional
   perspective focused on science, technology, engineering, mathematics, broader
   impacts, and societal implications
 - [ ] The introduction section outlines the ethical implications of the thesis
+- [ ] The introduction explains the terminology that a technically informed
+  reader needs in order to understand the project
 - [ ] The introduction outlines the structure of the senior comprehensive
-  project
+  project and previews the purpose of each chapter
 - [ ] The introduction section articulates the overall contributions of the
   senior comprehensive project
+- [ ] The introduction distinguishes the project's contributions from the work
+  of other researchers or existing tools
 
 #### Related Work Section Requirements
 
 - [ ] The related work section references and describes relevant literature
 - [ ] The related work section explains how relevant literature connects to the
   thesis
+- [ ] The related work section describes a purposeful strategy for identifying
+  and selecting relevant sources
+- [ ] The related work section uses credible, current, and appropriately
+  authoritative sources for the research problem
 - [ ] The related work section does not provide a "laundry list" of the related
   literature
+- [ ] The related work section synthesizes sources by comparing their methods,
+  findings, assumptions, and limitations
+- [ ] The related work section identifies a gap, unresolved issue, or opportunity
+  that motivates the completed project
 - [ ] The related work section situates the completed project in the broader
   scope
+- [ ] The related work section explains how prior work informs the project's
+  research questions, method, or evaluation
 - [ ] The related work section furnishes content that supports the other
   chapters of the thesis
+- [ ] All sources discussed in the related work section are cited consistently
+  and included in the reference list
 
 #### Method Section Requirements
 
 - [ ] The method section explains the process utilized in the completed study
+- [ ] The method section states how the selected method addresses the research
+  problem or research questions
 - [ ] The method section addresses as many of the following that are applicable
   (minimum `3`):
   - `description of algorithms`
@@ -341,10 +395,20 @@ Computer and Information Science.
   - `hardware`
   - `data`
   - `theories`
+- [ ] The method section justifies important design, implementation, or
+  analytical decisions
+- [ ] The method section describes the provenance, preparation, and organization
+  of any data used by the project
 - [ ] The method section explains the design of the experiments that will
   evaluate the computational artifact
+- [ ] The method section identifies the independent and dependent variables, or
+  the comparison conditions, when those concepts apply
 - [ ] The method section explains how to calculate and/or collect the evaluation
   metrics
+- [ ] The method section identifies the tools, versions, configurations, and
+  environmental conditions needed to reproduce the study
+- [ ] The method section explains how privacy, security, consent, or other
+  ethical concerns were addressed when applicable
 - [ ] The method section references the GitHub repository that contains the
   implementation of the project's computational artifact(s)
 - [ ] The method section gives examples of the input and output of the project's
@@ -357,17 +421,45 @@ Computer and Information Science.
 
 - [ ] The experimental results section includes a description of experiments
   such that a reader should be able to reproduce them
+- [ ] The experimental results section states which research question or
+  objective each experiment addresses
 - [ ] The evaluation subsection describes how the work is validated
+- [ ] The evaluation subsection identifies appropriate baselines, comparison
+  conditions, or success criteria when applicable
 - [ ] The evaluation subsection contains at least one graph, table of data, or
   some other relevant presentation of the results from the experimental study
+- [ ] Each result is labeled, described, and interpreted in relation to the
+  research problem rather than merely presented
+- [ ] The results report relevant measurements, uncertainty, variation, or
+  statistical analysis when those concepts apply
+- [ ] The experimental results section distinguishes observations supported by
+  the data from claims that require further interpretation
+- [ ] The experimental results section reports unexpected, negative, or
+  inconclusive findings rather than omitting them
 - [ ] The experimental results section details the threats to validity
+- [ ] The reported results are consistent with the methods, data, and artifact
+  versions described elsewhere in the thesis
 
 #### Discussion and Future Work Section Requirements
 
 - [ ] The discussion and future work section discusses the impact of the
   completed research project
+- [ ] The discussion and future work section answers the research questions or
+  evaluates the stated objectives using the reported results
+- [ ] The discussion and future work section compares the completed work with
+  relevant findings and limitations from the related work
 - [ ] The discussion and future work section critically reflects on the
   completed research project
+- [ ] The discussion and future work section explains the practical and
+  theoretical significance of the results
+- [ ] The discussion and future work section addresses limitations, risks, and
+  unresolved questions without overstating the findings
+- [ ] The discussion and future work section revisits the ethical, social, and
+  broader impacts of the completed project
+- [ ] The future work section proposes specific, feasible, and prioritized next
+  steps that follow from the results and limitations
+- [ ] The conclusion summarizes the problem, method, principal findings, and
+  contribution without introducing new evidence
 - [ ] The conclusion outlines, with sufficient depth and detail, avenues for
   further and/or future work
 
@@ -380,8 +472,8 @@ Computer and Information Science.
 - [ ] It is possible for a `600`-level researcher who is not the creator of the
   GitHub repository to install and use the computational artifact
 - [ ] The artifact's GitHub repository contains sufficient evidence of best
-  practices for software development (e.g., test suites, linters, and the setup of
-  continuous integration in GitHub Actions)
+  practices for software development (e.g., test suites, linters, and the setup
+  of continuous integration in GitHub Actions)
 - [ ] The GitHub repository features deliverables that have a clear connection
   to the research project
 - [ ] The GitHub repository contains evidence of regular commits through the
@@ -415,11 +507,16 @@ limits:
   - Preliminary demonstration of computational artifact: 2 minutes
   - Question and answer session: 2 minutes
   - Total time of presentation session: 8 minutes
+- The course includes two distinct computational-artifact demonstrations:
+  a preliminary demonstration during the project presentation and a final
+  demonstration later in the semester.
+- The preliminary demonstration of the computational artifact must be no more
+  than 2 minutes and should show the current state of the working prototype.
 - The final demonstration of the computational artifact must be no more than 5
-minutes
+  minutes.
 - The final demonstration of the computational artifact must furnish:
   - Examples of improvements to the system since the preliminary demonstration
-  - An explanation of at least one important source code segment
+  - An explanation of at least one important source-code segment
   - Connections between the computational prototype and the research problem
 - Presenting students must strictly adhere to the stated time limits.
 - All students are required to attend and participate as audience members in
@@ -447,11 +544,14 @@ course coordinator.
   repository
 - **Week Eight**: One-third of class gives project presentation and
   preliminary demonstration
-- **Week Nine**: One-third of class gives project presentation and preliminary demonstration
-- **Week Ten**: One-third of class gives project presentation and preliminary demonstration
+- **Week Nine**: One-third of class gives project presentation and
+  preliminary demonstration
+- **Week Ten**: One-third of class gives project presentation and preliminary
+  demonstration
 - **Week Eleven**: Write and revise Chapter One of Senior Comprehensive Project
 - **Week Twelve**: Write and revise Chapter Two of Senior Comprehensive Project
-- **Week Thirteen**: Half of class gives final demonstration of computational prototype
+- **Week Thirteen**: Half of class gives final demonstration of the
+  computational prototype
 - **Week Fourteen**: No class due to Thanksgiving Break
 - **Week Fifteen**: Half of class gives final demonstration of computational prototype
 - **Week Sixteen**: Finalize first two chapters of Senior Comprehensive Project
@@ -477,7 +577,7 @@ both academic and professional development:
 
 This course relies heavily on the [Computer and Information Science 600/610
 Organization on
-GitHub](https://github.com/Allegheny-Computer-Science-600610-25-26). Your work
+GitHub](https://github.com/Allegheny-Computer-Science-600610-26-27). Your work
 will be assigned and evaluated on and crucial communication distributed through
 the GitHub platform. You are responsible for accepting and maintaining GitHub
 repositories for each of the assigned course projects. Repositories include
@@ -508,7 +608,7 @@ sessions.
 
 Despite the fact that the majority of our communication relies on the [Computer
 and Information Science 600/610 Organization on
-GitHub](https://github.com/Allegheny-Computer-Science-600610-25-26), the faculty
+GitHub](https://github.com/Allegheny-Computer-Science-600610-26-27), the faculty
 will also use email to communicate significant information. As with other the
 GitHub platform used by this course, it is your responsibility to be accountable
 for email communication.
@@ -586,7 +686,7 @@ and will use them. We do so considering the following position:
 > awareness. Importantly, research demonstrates that relying on generated
 > responses reduces a learner’s ability to durably learn these lessons and
 > skills, suggesting that you should cautiously embrace the use of AI when you
-> complete CIS coursework<sup>†</sup>.
+> complete CIS coursework[^ai-study].
 
 Be prepared to support their use in ways including but not limited to:
 
@@ -604,18 +704,19 @@ your effort. These guidelines follow industry best practices and prepare you for
 integrating current and future generations of these AI technologies into your
 set of computational skills.
 
-<sup>†</sup> Binglin Chen, Colleen M. Lewis, Matthew West, and Craig Zilles.
-2024\. Plagiarism in the Age of Generative AI: Cheating Method Change and
-Learning Loss in an Intro to CS Course. In _Proceedings of the Eleventh ACM
-Conference on Learning @ Scale (L@S '24)_. Association for Computing Machinery,
-New York, NY, USA, 75–85.
+[^ai-study]: Binglin Chen, Colleen M. Lewis, Matthew West, and Craig Zilles.
+  2024\. Plagiarism in the Age of Generative AI: Cheating Method Change and
+  Learning Loss in an Intro to CS Course. In _Proceedings of the Eleventh ACM
+  Conference on Learning @ Scale (L@S '24)_. Association for Computing
+  Machinery, New York, NY, USA, 75–85.
 
 ### Seeking Assistance
 
 #### Course Assistance
 
-Students who struggle to understand the knowledge and skills introduced in this course
-are encouraged to seek assistance from their first and second readers.
+Students who struggle to understand the knowledge and skills introduced in
+this course are encouraged to seek assistance from their first and second
+readers.
 To meet with your first and second readers, please visit their web site.
 Historically, students who are successful in department courses visit and
 discuss course processes and assignments early and often.
