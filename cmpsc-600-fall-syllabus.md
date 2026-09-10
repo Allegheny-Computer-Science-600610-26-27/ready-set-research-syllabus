@@ -494,14 +494,16 @@ outlined in the project's presentations and chapters
 ### Institutional Review Board (IRB) Proposals
 
 Should a project require Institutional Review Board (IRB) approval for use of
-human subjects in the research project, the proposing student is responsible for
-writing and having an approved IRB proposal before conducting any of the
+human subjects in the research project, the proposing student is responsible
+for writing and having an approved IRB proposal before conducting any of the
 experimentation associated with their undergraduate research. Students must
 submit their IRB proposal to their First Reader who will review it and provide
 feedback on it before submitting it to the IRB. In accordance with Allegheny
-College policies, students may not submit their IRB proposal directly to the IRB
-and may not start working on any of their experiments before receiving IRB
-approval.
+College policies, students may not submit their IRB proposal directly to the
+IRB and may not start working on any of their experiments before receiving IRB
+approval. All finalized IRB proposals must be submitted to the Institutional
+Review Board by the first reader no later than week twelve of the Fall
+semester.
 
 ### Additional Details
 
