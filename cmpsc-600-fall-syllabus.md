@@ -403,8 +403,8 @@ course in Computer and Information Science.
   of any data used by the project
 - [ ] The method section explains the design of the experiments that will
   evaluate the computational artifact
-- [ ] The method section identifies the independent and dependent variables, or
-  the comparison conditions, when those concepts apply
+- [ ] The method section identifies the independent and dependent variables,
+the comparison conditions, and other aspects of the experimental design
 - [ ] The method section explains how to calculate and/or collect the evaluation
   metrics
 - [ ] The method section identifies the tools, versions, configurations, and
@@ -422,25 +422,27 @@ course in Computer and Information Science.
 #### Experimental Results Section Requirements
 
 - [ ] The experimental results section includes a description of experiments
-  such that a reader should be able to reproduce them
+such that a reader should be able to reproduce them
 - [ ] The experimental results section states which research question or
-  objective each experiment addresses
-- [ ] The evaluation subsection describes how the work is validated
+objective each experiment addresses
+- [ ] The evaluation subsection describes how the work is validated through
+automated analyses and/or manual inspections
 - [ ] The evaluation subsection identifies appropriate baselines, comparison
-  conditions, or success criteria when applicable
+conditions, or success criteria when applicable
 - [ ] The evaluation subsection contains at least one graph, table of data, or
-  some other relevant presentation of the results from the experimental study
+some other relevant presentation of the results from the experimental study
 - [ ] Each result is labeled, described, and interpreted in relation to the
-  research problem rather than merely presented
-- [ ] The results report relevant measurements, uncertainty, variation, or
-  statistical analysis when those concepts apply
+overall research problem and a stated research question
+- [ ] The results report relevant measurements, uncertainty, variation, and/or
+statistical analyses
 - [ ] The experimental results section distinguishes observations supported by
-  the data from claims that require further interpretation
-- [ ] The experimental results section reports unexpected, negative, or
-  inconclusive findings rather than omitting them
-- [ ] The experimental results section details the threats to validity
+the data from claims that require further interpretation
+- [ ] The experimental results section reports and explains unexpected,
+negative, or inconclusive findings that suggest avenues for future work
+- [ ] The experimental results section details the threats to validity and
+explains the process used to mitigate them
 - [ ] The reported results are consistent with the methods, data, and artifact
-  versions described elsewhere in the thesis
+versions described in prior chapters of the thesis
 
 #### Discussion and Future Work Section Requirements
 
