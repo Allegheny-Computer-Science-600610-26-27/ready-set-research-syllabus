@@ -542,8 +542,8 @@ course coordinator.
 - **Week One**: Informal class session due to start of semester during a partial
   week
 - **Week Two**: First formal class session and overview of course goals
-- **Week Three**: Review of course goals and meeting with both readers
-- **Week Four**: Review syllabus, work on presentation slide deck and prototype
+- **Week Three**: Review course goals, introduce syllabus, and meet with both readers
+- **Week Four**: Review syllabus and work on presentation slide deck and prototype
 - **Week Five**: Refine presentation slide deck and computational prototype
 - **Week Six**: Finalize presentation slide deck and prototype for demonstration
 - **Week Seven**: No class due to Fall Break, gain access to thesis chapters
