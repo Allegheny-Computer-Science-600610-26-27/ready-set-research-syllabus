@@ -411,10 +411,10 @@ approval.
 
 - A project presentation includes the following components with these time
   limits:
-  - Project presentation: 10 minutes
-  - Demonstration of computational artifact: 3 minutes
-  - Question and answer session: 2 minutes
-  - Total time of presentation session: 15 minutes
+  - Project presentation: 4 minutes
+  - Demonstration of computational artifact: 2 minutes
+  - Question and answer session: 1 minute
+  - Total time of presentation session: 8 minutes
 - Presenting students must strictly adhere to the stated time limits.
 - All students are required to attend and participate as audience members in all
   of project presentations.
@@ -440,14 +440,13 @@ approval.
   repository
 - **Week Eight**: One-third of class gives project presentation and
   preliminary demonstration
-- **Week Nine**: One-third of class gives project presentation and demonstration
-- **Week Ten**: One-third of class gives project presentation and demonstration
+- **Week Nine**: One-third of class gives project presentation and preliminary demonstration
+- **Week Ten**: One-third of class gives project presentation and preliminary demonstration
 - **Week Eleven**: Write and revise Chapter One of Senior Comprehensive Project
 - **Week Twelve**: Write and revise Chapter Two of Senior Comprehensive Project
-- **Week Thirteen**: Write and revise Chapter Two of Senior Comprehensive
-  Project
+- **Week Thirteen**: Half of class gives final demonstration of computational prototype
 - **Week Fourteen**: No class due to Thanksgiving Break
-- **Week Fifteen**: Entire class gives final demonstration of computational prototype
+- **Week Fifteen**: Half of class gives final demonstration of computational prototype
 - **Week Sixteen**: Finalize first two chapters of Senior Comprehensive Project
 - **December 10, 2026 by 11:59 PM**: Submit final version of Chapter One and
   Chapter Two and finalized version of computational prototype
