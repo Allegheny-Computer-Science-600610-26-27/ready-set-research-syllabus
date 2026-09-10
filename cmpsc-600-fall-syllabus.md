@@ -275,6 +275,8 @@ course in Computer and Information Science.
   professional manner and used a reasonable fallback when necessary
 - [ ] The student responded accurately and professionally to questions about
   the artifact's current state
+- [ ] The preliminary demonstration highlighted the overall feasibility and
+  technical challenge of the presented research project
 
 #### Final Project Demonstration
 
@@ -300,7 +302,7 @@ course in Computer and Information Science.
 - [ ] The student handled technical difficulties or unexpected issues in a
   professional manner and used a reasonable fallback when necessary
 - [ ] The final demonstration showed the overall feasibility and practical
-  applicability of the completed research project
+  applicability of the partially completed research project
 
 #### General Thesis Requirements
 
