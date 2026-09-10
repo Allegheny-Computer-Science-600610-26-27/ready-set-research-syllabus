@@ -6,10 +6,10 @@ Your senior thesis process affords you the opportunity to pursue independent
 research in computer science. This course parallels the kinds of intense
 inquiry and research inherent to both academic life and a career as a computer
 scientist, data scientist, or software engineer. To that end, you will work
-closely with your readers to explore rich, ever-complex, projects. Though the
-faculty cannot promise that this work will be frustration- or challenge-free,
-we invite you to pursue it with great enthusiasm, vigor, and to --- above all
---- find joy in the process.
+closely with your readers to explore rich, increasingly complex projects. Though
+the faculty cannot promise that this work will be frustration- or challenge-free,
+we invite you to pursue it with great enthusiasm, vigor, and to --- above all ---
+find joy in the process.
 
 ## Course Details
 
@@ -20,7 +20,7 @@ we invite you to pursue it with great enthusiasm, vigor, and to --- above all
   approved laptop in this course; a limited number of laptops are available for
   use during class and lab sessions.
 - **Credits**: 4
-- **Prerequisite**: `CMPSC 580` and `CMPSC/DS/INFM/SE 610`
+- **Prerequisite**: `CMPSC 580` and `CMPSC/DS/INFM/SE 600`
 - **Distribution Requirements**: `None`
 
 ## Course Instructors
@@ -61,7 +61,7 @@ not in the above list of course instructors.
   demonstration
 - **Week Sixteen**: Finalize and submit all components of Senior Comprehensive
   Project
-- **Friday, May 1, 2026 by 11:59 PM**: Submit final version of Senior
+- **Saturday, May 1, 2027 by 11:59 PM**: Submit final version of Senior
   Comprehensive Project
 
 ### Important Details
@@ -160,7 +160,7 @@ percentages during the academic semester.
 Information Science, submission of and participation in all the primary
 requirements is mandatory. In addition to an overall evaluation of each
 category, a student's work in the `610`-level Computer and Information Science
-course will be evaluated according to the baseline requirements outline in the
+course will be evaluated according to the baseline requirements outlined in the
 syllabus for the 600-level course.
 
 **Assigning Assessments**: Please note that these requirements articulate a
@@ -173,14 +173,14 @@ approved by all faculty members who are instructors for a `610`-level course in
 Computer and Information Science at Allegheny College.
 
 **Double Majors**: Students who are enrolled in `DOUBL 610` are also required to
-contract that describes the deliverables and the deadlines by which they will
-complete them for both `610`-level course in Computer and Information Science
-and the course for their additional major. Importantly, students in `DOUBL 610`
-must complete _all_ the requirements for _both_ the `610`-level course in
-Computer and Information Science _and_ the `610` course connected to their other
-major. Students who enroll in `DOUBL 610` should submit their course contract to
-both of their first readers and the coordinator of the `610`-level course in
-Computer and Information Science.
+write a course contract that describes the deliverables and the deadlines by
+which they will complete them for both the `610`-level course in Computer and
+Information Science and the course for their additional major. Importantly,
+students in `DOUBL 610` must complete _all_ the requirements for _both_ the
+`610`-level course in Computer and Information Science _and_ the `610` course
+connected to their other major. Students who enroll in `DOUBL 610` should
+submit their course contract to both of their first readers and the coordinator
+of the `610`-level course in Computer and Information Science.
 
 **GitHub Repositories**: Please review the syllabus for the `600`-level course
 to see the listing of the baseline requirements for all components of the
@@ -231,11 +231,12 @@ both academic and professional development:
 
 This course relies heavily on the [Computer and Information Science 600/610
 Organization on
-GitHub](https://github.com/Allegheny-Computer-Science-600610-25-26). Your work
-will be assigned and evaluated on and crucial communication distributed through
-the GitHub platform. You are responsible for accepting and maintaining GitHub
-repositories for each of the assigned course projects. Repositories include
-completion- and submission-specific instructions via `README` files. Many of
+GitHub](https://github.com/Allegheny-Computer-Science-600610-26-27). Your work
+will be assigned and evaluated on GitHub, and crucial course communication will
+be distributed through the platform. You are responsible for accepting and
+maintaining GitHub repositories for each of the assigned course projects.
+Repositories include completion- and submission-specific instructions via
+`README` files. Many of
 these operations feature using GitHub's tagging mechanism to release PDFs of
 your content with versions that adhere to the course's semantic versioning
 standard. Students are invited to use the course's GitHub organization to create
@@ -264,9 +265,9 @@ the course instructor to explain why they were absent.
 
 Despite the fact that the majority of our communication relies on the [Computer
 and Information Science 600/610 Organization on
-GitHub](https://github.com/Allegheny-Computer-Science-600610-25-26), the faculty
-will also use email to communicate significant information. As with other the
-GitHub platform used by this course, it is your responsibility to be accountable
+GitHub](https://github.com/Allegheny-Computer-Science-600610-26-27), the faculty
+will also use email to communicate significant information. As with the other
+GitHub platforms used by this course, it is your responsibility to be accountable
 for email communication.
 
 ### Syllabus Revision
@@ -319,9 +320,9 @@ Ethics](https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-boo
 
 ### Use of Artificial Intelligence Tools
 
-The course instructors recognize that use of artificial intelligence (AI) tools
-such as Github Copilot, GPT, and Claude has emerged as a professional skill set
-in the knowledge and practices our coursework covers. Department faculty
+The course instructors recognize that using artificial intelligence (AI) tools
+such as GitHub Copilot, GPT, and Claude has emerged as a professional skill in
+the knowledge and practices covered by this coursework. Department faculty
 maintain a permissive attitude toward these tools by recognizing that you can
 and will use them. We do so considering the following position:
 
@@ -333,7 +334,7 @@ and will use them. We do so considering the following position:
 > AI-generated answer wholesale or as a small part of an assignment may lead to
 > less-than-satisfactory results in the context of both learning and deliverable
 > quality.
-
+>
 > As a learner, your time at Allegheny is meant to impart the knowledge that
 > enables you to judge the fitness of a given approach, regardless of its
 > origin. In the same way that CIS students employ compilers, integrated
@@ -342,9 +343,10 @@ and will use them. We do so considering the following position:
 > awareness. Importantly, research demonstrates that relying on generated
 > responses reduces a learner’s ability to durably learn these lessons and
 > skills, suggesting that you should cautiously embrace the use of AI when you
-> complete CIS coursework<sup>†</sup>.
+> complete CIS coursework[^ai-study].
 
-Be prepared to support their use in ways including but not limited to:
+Be prepared to document and support your use of these tools in ways including
+but not limited to:
 
 - citing instances where code has been generated and clearly defining the tools
   that generated them
@@ -360,11 +362,11 @@ your effort. These guidelines follow industry best practices and prepare you for
 integrating current and future generations of these AI technologies into your
 set of computational skills.
 
-<sup>†</sup> Binglin Chen, Colleen M. Lewis, Matthew West, and Craig Zilles.
-2024\. Plagiarism in the Age of Generative AI: Cheating Method Change and
-Learning Loss in an Intro to CS Course. In _Proceedings of the Eleventh ACM
-Conference on Learning @ Scale (L@S '24)_. Association for Computing Machinery,
-New York, NY, USA, 75–85.
+[^ai-study]: Binglin Chen, Colleen M. Lewis, Matthew West, and Craig Zilles.
+  2024\. Plagiarism in the Age of Generative AI: Cheating Method Change and
+  Learning Loss in an Intro to CS Course. In _Proceedings of the Eleventh ACM
+  Conference on Learning @ Scale (L@S '24)_. Association for Computing
+  Machinery, New York, NY, USA, 75–85.
 
 ### Seeking Assistance
 
@@ -372,14 +374,14 @@ New York, NY, USA, 75–85.
 
 Students who struggle to understand the knowledge and skills introduced in this
 course are encouraged to seek assistance from their first and second readers. To
-meet with your first and second readers, please visit their web site.
+meet with your first and second readers, please visit their website.
 Historically, students who are successful in department courses visit and
 discuss course processes and assignments early and often.
 
 #### Outside Assistance
 
 If you find yourself in difficult circumstances which affect your ability to
-participate in or complete course work, let us know immediately --- **full
+participate in or complete coursework, let us know immediately --- **full
 stop**.
 
 Do not wait until the end of the semester.
