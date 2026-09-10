@@ -449,8 +449,8 @@ approval.
 - **Week Fourteen**: No class due to Thanksgiving Break
 - **Week Fifteen**: Write and revise Chapter Two of Senior Comprehensive Project
 - **Week Sixteen**: Finalize first two chapters of Senior Comprehensive Project
-- **December 11, 2025 by 11:59 PM**: Submit final version of Chapter One and
-  Chapter Two
+- **December 10, 2026 by 11:59 PM**: Submit final version of Chapter One and
+  Chapter Two and finalized version of computational prototype
 
 ## Required Materials
 
