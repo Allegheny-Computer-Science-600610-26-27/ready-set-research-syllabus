@@ -708,23 +708,24 @@ aspect of the submitted work, including any work that was AI-assisted.
 AI tools can produce inaccurate explanations, fabricated citations, insecure
 code, biased recommendations, and content that resembles existing copyrighted
 or licensed work. Students must critically evaluate every output before using
-it. In particular, students must:
+it. As they complete their senior comprehensive project, students must address
+tasks that include but are not limited to:
 
-- verify factual claims, quotations, citations, and bibliographic information
+- Verify factual claims, quotations, citations, and bibliographic information
   against the original scholarly or technical source
-- never use AI-generated citations or references without independently checking
+- Never use AI-generated citations or references without independently checking
   that they exist and support the claim being made
-- test, review, and revise generated code before incorporating it into an
+- Test, review, and revise generated code before incorporating it into an
   artifact
-- check generated code and other outputs for security, privacy, accessibility,
+- Check generated code and other outputs for security, privacy, accessibility,
   bias, and license or attribution requirements
-- report uncertainty, limitations, and material AI assistance when they affect
+- Report uncertainty, limitations, and material AI assistance when they affect
   the research method, results, or interpretation
 
 Students may not present AI-generated text, code, data, results, citations, or
-analysis as their own work without appropriate disclosure. Students may not use
-AI tools to fabricate data, research participants, experimental results,
-observations, sources, or evidence.
+analysis as their own work. Students may not use AI tools to fabricate data,
+research participants, experimental results, observations, sources, evidence,
+or any other substantive component of the senior comprehensive project.
 
 #### Documenting AI Use
 
@@ -732,15 +733,15 @@ Students must maintain an AI-use record in their research notebook for any AI
 use that materially influences the project. The record should identify, when
 available:
 
-- the tool or provider, model, and date of use
-- the purpose of the interaction and the part of the project it affected
-- the prompt or a representative prompt, unless it contains protected material
-- the relevant output or a concise description of what was used
-- the student's verification, revisions, and reasons for accepting or rejecting
-  the output
+- Tool or provider, model, and date of use
+- Purpose of the interaction and the part of the project it affected
+- Prompt or a representative prompt and context used to complete the task
+- Relevant AI output or a concise description of what was used
+- Complete verification and revision transcripts and clear reasons for
+accepting or rejecting the output produced by the AI tool
 
-Students should preserve prompts and outputs when doing so is safe and lawful.
-If a prompt or output contains private, confidential, proprietary, unpublished,
+Students should preserve prompts and outputs whenever it is appropriate to do
+so. If a prompt or output contains private, confidential, proprietary, unsafe,
 or otherwise protected material, students should not reproduce that material in
 the research notebook. Instead, they should provide a redacted description of
 the interaction and explain the steps taken to protect the material.
@@ -768,17 +769,18 @@ approved protocol and must be discussed with the first reader.
 #### Advanced-Course Expectations
 
 In an advanced research course, effective AI use means more than accepting a
-plausible response. Students should compare alternatives, document important
-decisions, evaluate limitations and bias, and use experiments or other evidence
-to assess whether an AI-assisted approach is appropriate. The research
-notebook, thesis chapters, presentations, demonstrations, and computational
-artifact should make the student's independent reasoning and contributions
-visible.
+plausible response from an AI tool. Students should compare alternatives,
+document important decisions, evaluate limitations and bias, and use
+experiments or other evidence to assess whether an AI-assisted approach is
+appropriate. The research notebook, thesis chapters, presentations,
+demonstrations, and computational artifact should make the student's
+independent reasoning and contributions visible.
 
 Failure to disclose substantive AI assistance, submission of fabricated or
-unverified material, misuse of protected information, or inability to explain
-submitted work may constitute a violation of the Honor Code or another College
-or department policy.
+unverified materials (e.g., program source code, data sets, or data analysis
+routines), misuse of protected information, or inability to explain submitted
+work may constitute a violation of the Honor Code or another College or
+Departmental policy.
 
 ### Seeking Assistance
 
