@@ -410,22 +410,25 @@ approval.
 ### Additional Details
 
 - A project presentation includes the following components with these time
-  limits:
+limits:
   - Project presentation: 4 minutes
-  - Demonstration of computational artifact: 2 minutes
-  - Question and answer session: 1 minute
+  - Preliminary demonstration of computational artifact: 2 minutes
+  - Question and answer session: 2 minutes
   - Total time of presentation session: 8 minutes
+- The final demonstration of the computational artifact must be no more than 4
+minutes with 1 minute for a question and answer session.
 - Presenting students must strictly adhere to the stated time limits.
-- All students are required to attend and participate as audience members in all
-  of project presentations.
+- All students are required to attend and participate as audience members in
+all of project presentations.
 - Students must submit the first two chapters of their senior thesis document.
-  The thesis chapters are only required to adhere to those requirements that might
-  be reasonably completed during a `600`-level course in Computer and Information
-  Science. For instance, students are not required to have a senior thesis
-  document that meets the overall word count requirement until they have completed
-  a `610`-level course in Computer and Information Science. Students who have
-  questions about the assessment requirements for this `600`-level comprehensive
-  project are encouraged to contact their first reader and the course coordinator.
+The thesis chapters are only required to adhere to those requirements that
+might be reasonably completed during a `600`-level course in Computer and
+Information Science. For instance, students are not required to have a senior
+thesis document that meets the overall word count requirement until they have
+completed a `610`-level course in Computer and Information Science. Students
+who have questions about the assessment requirements for this `600`-level
+comprehensive project are encouraged to contact their first reader and the
+course coordinator.
 
 ### Course Schedule
 
