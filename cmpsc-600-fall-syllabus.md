@@ -415,8 +415,12 @@ limits:
   - Preliminary demonstration of computational artifact: 2 minutes
   - Question and answer session: 2 minutes
   - Total time of presentation session: 8 minutes
-- The final demonstration of the computational artifact must be no more than 4
-minutes with 1 minute for a question and answer session.
+- The final demonstration of the computational artifact must be no more than 5
+minutes
+- The final demonstration of the computational artifact must furnish:
+  - Examples of improvements to the system since the preliminary demonstration
+  - An explanation of at least one important source code segment
+  - Connections between the computational prototype and the research problem
 - Presenting students must strictly adhere to the stated time limits.
 - All students are required to attend and participate as audience members in
 all of project presentations.
