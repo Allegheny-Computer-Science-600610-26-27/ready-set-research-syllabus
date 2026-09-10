@@ -366,8 +366,6 @@ course in Computer and Information Science.
   thesis
 - [ ] The related work section uses credible, current, and appropriately
   authoritative sources for the research problem
-- [ ] The related work section does not provide a "laundry list" of the related
-  literature
 - [ ] The related work section synthesizes sources by comparing their methods,
   findings, assumptions, and limitations
 - [ ] The related work section identifies a gap, unresolved issue, or opportunity
@@ -380,6 +378,8 @@ course in Computer and Information Science.
   chapters of the thesis
 - [ ] All sources discussed in the related work section are cited consistently
   and included in the reference list
+- [ ] The related work section does not provide a "laundry list" of the related
+  literature
 
 #### Method Section Requirements
 
