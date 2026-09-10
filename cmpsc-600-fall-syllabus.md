@@ -360,8 +360,6 @@ Computer and Information Science.
 - [ ] The related work section references and describes relevant literature
 - [ ] The related work section explains how relevant literature connects to the
   thesis
-- [ ] The related work section describes a purposeful strategy for identifying
-  and selecting relevant sources
 - [ ] The related work section uses credible, current, and appropriately
   authoritative sources for the research problem
 - [ ] The related work section does not provide a "laundry list" of the related
