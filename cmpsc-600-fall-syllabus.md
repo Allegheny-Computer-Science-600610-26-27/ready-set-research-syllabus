@@ -379,7 +379,7 @@ Computer and Information Science.
 
 #### Method Section Requirements
 
-- [ ] The method section explains the process utilized in the completed study
+- [ ] The method section explains the processes used in the completed study
 - [ ] The method section states how the selected method addresses the research
   problem or research questions
 - [ ] The method section addresses as many of the following that are applicable
