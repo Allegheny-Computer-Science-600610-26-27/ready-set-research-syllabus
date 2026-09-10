@@ -271,6 +271,8 @@ course in Computer and Information Science.
   limitations
 - [ ] The demonstrated artifact aligned with the project objectives described
   in the presentation
+- [ ] The student handled technical difficulties or unexpected issues in a
+  professional manner and used a reasonable fallback when necessary
 - [ ] The student responded accurately and professionally to questions about
   the artifact's current state
 
