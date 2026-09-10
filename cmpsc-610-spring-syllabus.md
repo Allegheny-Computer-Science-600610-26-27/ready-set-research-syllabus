@@ -304,11 +304,11 @@ policy:
 As the nature of "plagiarism" and constituents of "fair use" change often, the
 department encourages you to periodically review the specific tenets of the
 general college Honor Code provided in the latest course catalog and in the
-_Compass_. The above statement, of course, also applies to online forums such as
-Stack Overflow or text generation systems such as ChatGPT or GitHub Copilot.
-Please review the policy on the use of artificial intelligence tools, referenced
-in this syllabus, for more suggestions concerning the effective use of tools
-like ChatGPT or GitHub Copilot.
+_Compass_. The above statement, of course, also applies to online forums such
+as Stack Overflow or AI tools such as ChatGPT or GitHub Copilot. Please review
+the policy on the use of artificial intelligence tools, referenced in this
+syllabus, for more suggestions concerning the effective use of AI tools like
+ChatGPT or GitHub Copilot.
 
 ### Classroom Ethics
 
