@@ -363,15 +363,15 @@ it. As they complete their senior comprehensive project, students must address
 tasks that include but are not limited to:
 
 - Verify factual claims, quotations, citations, and bibliographic information
-  against the original scholarly or technical source
-- Never use AI-generated citations or references without independently checking
-  that they exist and support the claim being made
-- Test, review, and revise generated code before incorporating it into an
-  artifact
-- Check generated code and other outputs for security, privacy, accessibility,
-  bias, and license or attribution requirements
+against the original scholarly or technical source
+- Independently check AI-generated citations or references to confirm that they
+exist and support the claim being made in the research paper
+- Test, review, and revise AI-generated code before incorporating it into an
+artifact
+- Check AI-generated code and other outputs for security and privacy concerns,
+limitations to accessibility, bias, and license or attribution requirements
 - Report uncertainty, limitations, and material AI assistance when they affect
-  the research method, results, or interpretation
+the research method, results, or interpretation
 
 Students may not present AI-generated text, code, data, results, citations, or
 analysis as their own work. Students may not use AI tools to fabricate data,
