@@ -470,26 +470,26 @@ versions described in prior chapters of the thesis
 #### Computational Artifact
 
 - [ ] The artifact's source code exists in a publicly available GitHub
-  repository
+repository
 - [ ] The artifact's GitHub repository contains documentation on how to install
-  and use it
+and use it
 - [ ] It is possible for a `600`-level researcher who is not the creator of the
-  GitHub repository to install and use the computational artifact
+GitHub repository to install and use the computational artifact
 - [ ] The artifact's GitHub repository contains sufficient evidence of best
-  practices for software development (e.g., test suites, linters, and the setup
-  of continuous integration in GitHub Actions)
+practices for software development (e.g., test suites, linters, formatters,
+type checkers, and the setup of continuous integration in GitHub Actions)
 - [ ] The GitHub repository features deliverables that have a clear connection
-  to the research project
+to the research project
 - [ ] The GitHub repository contains evidence of regular commits through the
-  Fall semester
+Fall semester
 - [ ] The computational artifact demonstrates significant technical complexity
-  appropriate for `600`-level work
+appropriate for `600`-level work
 - [ ] The artifact includes comprehensive error handling and input validation
 - [ ] The repository contains clear examples and usage demonstrations
 - [ ] The artifact's code is well-structured, readable, and follows appropriate
-  design patterns
+design patterns
 - [ ] The computational artifact successfully addresses the research problem as
-  outlined in the project's presentations and chapters
+outlined in the project's presentations and chapters
 
 ### Institutional Review Board (IRB) Proposals
 
