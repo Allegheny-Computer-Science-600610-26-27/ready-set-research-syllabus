@@ -27,7 +27,6 @@ engineering, as further described in detail in the Learning Objectives section.
 - [Oliver Bonham-Carter](https://www.oliverbonhamcarter.com/)
 - [Janyl Jumadinova](https://janyljumadinova.com/)
 - [Gregory M. Kapfhammer `**`](https://www.gregorykapfhammer.com/)
-- [Douglas Luman](https://www.cis.allegheny.edu/sites/dluman/)
 
 The instructor with the `**` symbol after their name is the course coordinator
 who is responsible for orchestrating all aspects of the `CMPSC 600` course. If
@@ -572,7 +571,7 @@ and will use them. We do so considering the following position:
 > AI-generated answer wholesale or as a small part of an assignment may lead to
 > less-than-satisfactory results in the context of both learning and deliverable
 > quality.
-
+>
 > As a learner, your time at Allegheny is meant to impart the knowledge that
 > enables you to judge the fitness of a given approach, regardless of its
 > origin. In the same way that CIS students employ compilers, integrated
