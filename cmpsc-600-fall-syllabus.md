@@ -389,7 +389,7 @@ course in Computer and Information Science.
 - [ ] The method section states how the selected method addresses the research
   problem or research questions
 - [ ] The method section addresses as many of the following that are applicable
-  (minimum `3`):
+  (minimum `5`):
   - `description of algorithms`
   - `programming languages`
   - `libraries`
