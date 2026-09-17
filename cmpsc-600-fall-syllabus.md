@@ -760,10 +760,11 @@ which their work relies.
 #### Privacy, Security, and Human-Subjects Research
 
 Students must not submit personal information, confidential or proprietary
-data, unpublished research, access credentials, private repository contents, or
-human-subject data to a public or unapproved AI service. AI providers may retain
-or reuse submitted content. Students must also follow the approved research
-protocol, data-management plan, and any instructions from their readers.
+data, unpublished or embargoed research artifacts, access credentials, private
+repository contents, or human-subject data to a public or unapproved AI
+service. Students must always remember that AI providers may retain or reuse
+submitted content. Students must also follow the approved research protocol,
+data-management plan, and any instructions from their readers.
 
 When a project involves human participants, identifiable data, or other
 regulated information, students must obtain the required approval before using
