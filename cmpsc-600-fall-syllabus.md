@@ -626,12 +626,12 @@ for email communication.
 The faculty of the Department of Computer and Information Science reserve the
 right to make changes to this syllabus document. Should a change occur, they
 may be discussed with the members of the course community. Minor revisions to
-wording that do not impact course events or deliverables may be made without
-the course coordinator notifying the students enrolled in a `600`-level course
-in computer and information science or a `DOUBL 600` course. Any change that
-impacts dates or significant changes in student responsibility will be
-communicated --- in writing --- at least one week in advance of the due date of
-the deliverable affected.
+wording that do not impact course events or deliverables may be made by the
+course coordinator without sending a notification to the students enrolled in a
+`600`-level course in computer and information science or a `DOUBL 600` course.
+Any change that impacts dates or significant changes in student responsibility
+will be communicated --- in writing --- at least one week in advance of the due
+date of the deliverable affected.
 
 ### Honor Code
 
