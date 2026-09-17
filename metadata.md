@@ -76,13 +76,16 @@ A student should add an X-mark to the box to indicate that they have defined a
 project contract and had either their first and second readers or, if they are
 a double major, their two first readers approve it.
 
-- [ ] I have written a project contract and had either my first and second
-readers or my two first readers approve it.
+- [ ] I have written a project contract discussed it with either my first and
+second readers or my two first readers.
+- [ ] After discussion and the completion of any necessary revisions, either my
+first and second readers or my two first readers approve it.
 
 ## Checklist of Tasks
 
 Use this checklist to confirm that all required metadata and project-contract
-steps are complete.
+steps are completed as expected by the readers of your senior comprehensive
+project.
 
 - [ ] Enter my full name.
 - [ ] Review the applicable `600`-level and `610`-level course syllabi.
