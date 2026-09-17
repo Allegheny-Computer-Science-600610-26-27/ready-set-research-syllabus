@@ -713,23 +713,24 @@ AI tools can produce inaccurate explanations, fabricated citations, insecure
 code, biased recommendations, and content that resembles existing copyrighted
 or licensed work. Students must critically evaluate every output before using
 it. As they complete their senior comprehensive project, students must address
-tasks that include but are not limited to:
+tasks that include but are not limited to those in the following list:
 
 - Verify factual claims, quotations, citations, and bibliographic information
-  against the original scholarly or technical source
-- Never use AI-generated citations or references without independently checking
-  that they exist and support the claim being made
+against the original scholarly or technical source
+- Avoid use of AI-generated citations or references without independently
+checking that they exist and support the claim being made
 - Test, review, and revise generated code before incorporating it into an
-  artifact
+artifact
 - Check generated code and other outputs for security, privacy, accessibility,
-  bias, and license or attribution requirements
+bias, and license or attribution requirements
 - Report uncertainty, limitations, and material AI assistance when they affect
-  the research method, results, or interpretation
+the research method, results, or interpretation
 
-Students may not present AI-generated text, code, data, results, citations, or
-analysis as their own work. Students may not use AI tools to fabricate data,
-research participants, experimental results, observations, sources, evidence,
-or any other substantive component of the senior comprehensive project.
+Students may not present wholly AI-generated text, code, data, results,
+citations, or analysis as their own work. Students may not use AI tools to
+fabricate data, research participants, experimental results, observations,
+sources, evidence, or any other substantive component of the senior
+comprehensive project.
 
 #### Documenting AI Use
 
