@@ -29,9 +29,10 @@ engineering, as further described in detail in the Learning Objectives section.
 - [Gregory M. Kapfhammer `**`](https://www.gregorykapfhammer.com/)
 
 The instructor with the `**` symbol after their name is the course coordinator
-who is responsible for orchestrating all aspects of the `CMPSC 600` course. If
-you have any high-level questions about this course, please contact both the
-course coordinator and your first reader(s). Importantly, if you are enrolled in
+who is responsible for orchestrating all aspects of the `600`-level course
+(i.e., `CMPSC 600`, `DS 600`, `SE 600`, or `INFM 600`). If you have any
+high-level questions about this course, please contact both the course
+coordinator and your first reader(s). Importantly, if you are enrolled in
 `DOUBL 600` you may have a first reader who is not in the above list of course
 instructors.
 
