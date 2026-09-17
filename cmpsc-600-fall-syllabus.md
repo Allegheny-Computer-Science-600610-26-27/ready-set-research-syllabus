@@ -772,15 +772,15 @@ AI in the research process. Any AI-assisted collection, transformation,
 classification, or analysis of research data must be consistent with the
 approved protocol and must be discussed with the first reader.
 
-#### Advanced-Course Expectations
+#### Expectations for an Advanced Research Course
 
-In an advanced research course, effective AI use means more than accepting a
-plausible response from an AI tool. Students should compare alternatives,
-document important decisions, evaluate limitations and bias, and use
-experiments or other evidence to assess whether an AI-assisted approach is
-appropriate. The research notebook, thesis chapters, presentations,
-demonstrations, and computational artifact should make the student's
-independent reasoning and contributions visible.
+In an advanced research course like the senior comprehensive project, effective
+AI use means more than accepting a plausible response from an AI tool. Students
+should compare alternatives, document important decisions, evaluate limitations
+and bias, and use experiments or other evidence to assess whether an
+AI-assisted approach is appropriate. The research notebook, thesis chapters,
+presentations, demonstrations, and computational artifact should make the
+student's independent reasoning and contributions visible.
 
 Failure to disclose substantive AI assistance, submission of fabricated or
 unverified materials (e.g., program source code, data sets, or data analysis
