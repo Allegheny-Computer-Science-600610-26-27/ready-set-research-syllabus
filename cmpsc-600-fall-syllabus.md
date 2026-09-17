@@ -802,10 +802,8 @@ discuss course processes and assignments early and often.
 #### Outside Assistance
 
 If you find yourself in difficult circumstances which affect your ability to
-participate in or complete course work, let us know immediately -- **full
-stop**.
-
-Do not wait until the end of the semester.
+participate in or complete course work, let us know immediately --- **full
+stop**. Do not wait until the end of the semester to seek outside assistance.
 
 Part of our role as course instructors is to make sure that students receive the
 assistance they need. Do not hesitate to let us know if there is anything we can
