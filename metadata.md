@@ -74,7 +74,7 @@ syllabus for the 600-level course in Computer and Information Science.
 
 A student should add an X-mark to the box to indicate that they have defined a
 project contract and had either their first and second readers or, if they are
-a double major, their two first readers approve it.
+a double major, their two first readers read and approve it.
 
 - [ ] I have written a project contract and discussed it with either my first
 and second readers or my two first readers.
