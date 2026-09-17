@@ -630,7 +630,7 @@ wording that do not impact course events or deliverables may be made without
 the course coordinator notifying the students enrolled in a `600`-level course
 in computer and information science or a `DOUBL 600` course. Any change that
 impacts dates or significant changes in student responsibility will be
-communicated -- in writing -- at least one week in advance of the due date of
+communicated --- in writing --- at least one week in advance of the due date of
 the deliverable affected.
 
 ### Honor Code
